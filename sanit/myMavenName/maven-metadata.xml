@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sanit</groupId>
+  <artifactId>myMavenName</artifactId>
+  <version>1.0Maven</version>
+  <versioning>
+    <versions>
+      <version>1.0Maven</version>
+    </versions>
+    <lastUpdated>20140909182356</lastUpdated>
+  </versioning>
+</metadata>
